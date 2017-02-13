@@ -1,4 +1,4 @@
-# XML Builder
+# Builder
 
 `Builder::XmlMarkup` is the class used internally by Rails when it needs
 to generate XML. When `to_xml` is not enough and you need to generate
