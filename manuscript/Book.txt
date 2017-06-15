@@ -4,5 +4,6 @@ introduction.md
 basics.md
 builder.md
 parsing.md
+xmlmini.md
 {backmatter}
 conclusion.md
